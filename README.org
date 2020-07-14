@@ -1,6 +1,6 @@
-* Last name: Doug
-* First name: Mandell
-* Github username: djmandell
+* Last name: D
+* First name: M
+* Github username: dm
 
 * Instructions:
 
